@@ -1,0 +1,8 @@
+{
+    "versionCode":  143,
+    "versionName":  "1.5.120-local",
+    "url":  "https://github.com/tomlimatl1997-art/tomupdate/releases/tag/v1.5.120-local/releases/download/v1.5.120-local/app-arm64-v8a-release.apk",
+    "sha256":  "40db1fca94ccc8716fd566c8abdc1bafe973843a74e9287a991e22af002aedf1",
+    "notes":  "Trava de atualizacao automatica: checa o repositorio ao iniciar e exige atualizacao quando ha versao nova. Painel mostra apenas ativo/vencido na lista e o prazo por extenso ao abrir o usuario.",
+    "publishedAt":  "2026-10-18T19:50:42Z"
+}
