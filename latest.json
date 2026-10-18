@@ -1,8 +1,8 @@
 {
-    "versionCode":  143,
-    "versionName":  "1.5.120-local",
-    "url":  "https://github.com/tomlimatl1997-art/tomupdate/releases/download/v1.5.120-local/app-arm64-v8a-release.apk",
-    "sha256":  "40db1fca94ccc8716fd566c8abdc1bafe973843a74e9287a991e22af002aedf1",
-    "notes":  "Trava de atualizacao automatica: checa o repositorio ao iniciar e exige atualizacao quando ha versao nova. Painel mostra apenas ativo/vencido na lista e o prazo por extenso ao abrir o usuario.",
-    "publishedAt":  "2026-10-18T19:50:55Z"
+    "versionCode":  144,
+    "versionName":  "2.0-local",
+    "url":  "https://github.com/tomlimatl1997-art/tomupdate/releases/download/v2.0-local/app-arm64-v8a-release.apk",
+    "sha256":  "d13c7e88a4c2bf4c0cf770ef16d649c19e16f27bc12ed8b521e089cb4e5c50be",
+    "notes":  "2.0: icone novo (TomTV Neon Retro) em todas as densidades e como icone adaptativo; banner do Android TV, que e o que fazia o app aparecer sem icone na tela inicial da TV; trava de atualizacao automatica ao iniciar, com download, conferencia de sha256 e abertura do instalador do Android; painel de usuarios com pacote ativo/vencido na lista e prazo por extenso ao abrir, e botao de zerar tempo.",
+    "publishedAt":  "2026-10-18T20:03:37Z"
 }
