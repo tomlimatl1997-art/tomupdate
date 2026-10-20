@@ -1,8 +1,8 @@
 {
-    "versionCode":  144,
-    "versionName":  "2.0-local",
-    "url":  "https://github.com/tomlimatl1997-art/tomupdate/releases/download/v2.0-local/app-arm64-v8a-release.apk",
-    "sha256":  "d13c7e88a4c2bf4c0cf770ef16d649c19e16f27bc12ed8b521e089cb4e5c50be",
-    "notes":  "2.0: icone novo (TomTV Neon Retro) em todas as densidades e como icone adaptativo; banner do Android TV, que e o que fazia o app aparecer sem icone na tela inicial da TV; trava de atualizacao automatica ao iniciar, com download, conferencia de sha256 e abertura do instalador do Android; painel de usuarios com pacote ativo/vencido na lista e prazo por extenso ao abrir, e botao de zerar tempo.",
-    "publishedAt":  "2026-10-18T20:03:37Z"
+    "versionCode":  145,
+    "versionName":  "2.0.1-local",
+    "url":  "https://github.com/tomlimatl1997-art/tomupdate/releases/download/v2.0.1-local/app-arm64-v8a-release.apk",
+    "sha256":  "0fa61daa25034faae2e3b4541c33c3216b06c9c92035cf1743f98f4520a9689c",
+    "notes":  "2.0.1: corrige os botoes do player de filmes e series. As teclas cima, baixo, ok, esquerda e direita faziam a funcao fixa E navegavam no menu ao mesmo tempo, porque o clique do botao disparava na soltura da tecla. Agora o menu so responde ao toque: nenhum controle do player recebe foco do controle remoto, o foco fica no quadro do video, e a soltura das teclas tambem e consumida. A TV ao vivo nao mudou.",
+    "publishedAt":  "2026-10-20T00:17:22Z"
 }
