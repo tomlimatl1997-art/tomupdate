@@ -1,8 +1,8 @@
 {
-    "versionCode":  145,
-    "versionName":  "2.0.1-local",
-    "url":  "https://github.com/tomlimatl1997-art/tomupdate/releases/download/v2.0.1-local/app-arm64-v8a-release.apk",
-    "sha256":  "0fa61daa25034faae2e3b4541c33c3216b06c9c92035cf1743f98f4520a9689c",
-    "notes":  "2.0.1: corrige os botoes do player de filmes e series. As teclas cima, baixo, ok, esquerda e direita faziam a funcao fixa E navegavam no menu ao mesmo tempo, porque o clique do botao disparava na soltura da tecla. Agora o menu so responde ao toque: nenhum controle do player recebe foco do controle remoto, o foco fica no quadro do video, e a soltura das teclas tambem e consumida. A TV ao vivo nao mudou.",
-    "publishedAt":  "2026-10-20T00:17:22Z"
+    "versionCode":  146,
+    "versionName":  "2.0.2-local",
+    "url":  "https://github.com/tomlimatl1997-art/tomupdate/releases/download/v2.0.2-local/app-arm64-v8a-release.apk",
+    "sha256":  "bed073c50e2ac85b657a4946653f6e4466fe080d02a543690f1df1d5cd71317c",
+    "notes":  "Painel: seletor das sete listas, marca a ativa, avisa quando a lista editada nao e a do app e permite usa-la no app; categorias sem canal separadas e removiveis. App recarrega a configuracao quando o hash muda (120 s, nunca com o player aberto). Player de filmes e series: audio julgado por fonte, nunca silencio, pergunta antes de seguir sem portugues, volta para a fonte que ja tem imagem e fim das fontes com mensagem honesta.",
+    "publishedAt":  "2026-10-20T18:41:39Z"
 }
