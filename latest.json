@@ -1,8 +1,8 @@
 {
-    "versionCode":  153,
-    "versionName":  "2.2.0-local",
-    "url":  "https://github.com/tomlimatl1997-art/tomupdate/releases/download/v2.2.0-local/app-arm64-v8a-release.apk",
-    "sha256":  "09903fae584c7a02f3bd2d595f1521f2adbbb15e8b836c5b02ba51d8f0867bdc",
+    "versionCode":  154,
+    "versionName":  "2.2.1-local",
+    "url":  "https://github.com/tomlimatl1997-art/tomupdate/releases/download/v2.2.1-local/app-arm64-v8a-release.apk",
+    "sha256":  "1ea50b95e13d234122b80efde4f8859b9830d8aef3d8d213fc357846c6381a28",
     "notes":  "Atualize para obter as novas melhorias.",
-    "publishedAt":  "2026-10-22T00:48:13Z"
+    "publishedAt":  "2026-10-22T01:16:49Z"
 }
