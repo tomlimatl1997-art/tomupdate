@@ -1,8 +1,8 @@
 {
-    "versionCode":  157,
-    "versionName":  "2.2.4-local",
-    "url":  "https://github.com/tomlimatl1997-art/tomupdate/releases/download/v2.2.4-local/app-arm64-v8a-release.apk",
-    "sha256":  "2f62747a8adb37cb0c0a881210f903129dd0195777ac273b8a5cf08be0fca940",
-    "notes":  "Atualize para obter as novas melhorias.",
-    "publishedAt":  "2026-10-23T13:54:04Z"
+    "versionCode":  158,
+    "versionName":  "2.2.6-local",
+    "url":  "https://github.com/tomlimatl1997-art/tomupdate/releases/download/v2.2.6-local/app-arm64-v8a-release.apk",
+    "sha256":  "79733b41bcbe5c6eef5fc8658c2b40861750036954c458aee0a0d9ed6f2567c0",
+    "notes":  "2.2.6-local (codigo 158):\n- TV: botao \u0027Sincronizar listas de TV\u0027 no painel renova o login das 14 listas no servidor; login girado atualiza os clientes sem APK novo.\n- TV: cliente consulta o servidor (D1); se o host girou, baixa o conteudo filtrado uma vez; fallback com o master TXT do addon e snapshot do APK.\n- TV: snapshots das listas 01-07 reemissos do master do addon.\n- VOD: Overflix revertido (comportamento pre-Overflix).",
+    "publishedAt":  "2026-10-26T20:12:23Z"
 }
