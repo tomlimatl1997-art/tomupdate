@@ -1,8 +1,8 @@
 {
-    "versionCode":  158,
-    "versionName":  "2.2.6-local",
-    "url":  "https://github.com/tomlimatl1997-art/tomupdate/releases/download/v2.2.6-local/app-arm64-v8a-release.apk",
-    "sha256":  "79733b41bcbe5c6eef5fc8658c2b40861750036954c458aee0a0d9ed6f2567c0",
-    "notes":  "2.2.6-local (codigo 158):\n- TV: botao \u0027Sincronizar listas de TV\u0027 no painel renova o login das 14 listas no servidor; login girado atualiza os clientes sem APK novo.\n- TV: cliente consulta o servidor (D1); se o host girou, baixa o conteudo filtrado uma vez; fallback com o master TXT do addon e snapshot do APK.\n- TV: snapshots das listas 01-07 reemissos do master do addon.\n- VOD: Overflix revertido (comportamento pre-Overflix).",
-    "publishedAt":  "2026-10-26T20:12:23Z"
+    "versionCode":  159,
+    "versionName":  "2.2.6.1-local",
+    "url":  "https://github.com/tomlimatl1997-art/tomupdate/releases/download/v2.2.6.1-local/app-arm64-v8a-release.apk",
+    "sha256":  "27e7b6e7180087b822b7c62017db16adebab924f031dc7c71dc2e77071258c5e",
+    "notes":  "2.2.6.1-local (codigo 159):\n- TV: reposicao automatica de contas King. Se o login de uma lista King nao entrega canais ao vivo, o botao busca contas vivas no master do King, sem repetir conta de outra lista nem conta provada morta — King 04 e 05 voltaram a sincronizar (14 de 14).\n- TV: correcao do get.php King sem type/output — alguns provedores devolviam pagina de erro com a conta ativa.\n- TV: timeouts do sync ajustados (read 45 s, call 45 min) para hosts lentos; log de diagnosticos por tentativa.\n- VOD: Overflix revertido (comportamento pre-Overflix) — igual 2.2.6.",
+    "publishedAt":  "2026-10-27T00:09:51Z"
 }
