@@ -1,8 +1,8 @@
 {
-    "versionCode":  160,
-    "versionName":  "2.3.0-local",
-    "url":  "https://github.com/tomlimatl1997-art/tomupdate/releases/download/v2.3.0-local/app-arm64-v8a-release.apk",
-    "sha256":  "a7182c4f82ab0e0e76831fafbc2a1acd3d8bf6cc66523b8f75af4b1b9613c1af",
-    "notes":  "Filmes e series reescritos: Trakt + Overflix no Worker + progresso/assistido no D1",
-    "publishedAt":  "2026-11-05T01:57:58Z"
+    "versionCode":  161,
+    "versionName":  "2.3.1-local",
+    "url":  "https://github.com/tomlimatl1997-art/tomupdate/releases/download/v2.3.1-local/app-arm64-v8a-release.apk",
+    "sha256":  "9fb243ad36cf3e0372e6fa21cdeac3a2b9014930cb1cc9499ffac1c59810206f",
+    "notes":  "Correcao hosters no aparelho (OverflixHoster) + titulo original para busca no Overflix; Tenzing, Hobbit, Homem-Aranha, Dia D, Masterplan agora reproduzem",
+    "publishedAt":  "2026-11-05T02:56:50Z"
 }
