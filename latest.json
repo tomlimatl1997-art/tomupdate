@@ -1,8 +1,8 @@
 {
-    "versionCode":  159,
-    "versionName":  "2.2.6.1-local",
-    "url":  "https://github.com/tomlimatl1997-art/tomupdate/releases/download/v2.2.6.1-local/app-arm64-v8a-release.apk",
-    "sha256":  "27e7b6e7180087b822b7c62017db16adebab924f031dc7c71dc2e77071258c5e",
-    "notes":  "2.2.6.1-local (codigo 159):\n- TV: reposicao automatica de contas King. Se o login de uma lista King nao entrega canais ao vivo, o botao busca contas vivas no master do King, sem repetir conta de outra lista nem conta provada morta — King 04 e 05 voltaram a sincronizar (14 de 14).\n- TV: correcao do get.php King sem type/output — alguns provedores devolviam pagina de erro com a conta ativa.\n- TV: timeouts do sync ajustados (read 45 s, call 45 min) para hosts lentos; log de diagnosticos por tentativa.\n- VOD: Overflix revertido (comportamento pre-Overflix) — igual 2.2.6.",
-    "publishedAt":  "2026-10-27T00:09:51Z"
+    "versionCode":  160,
+    "versionName":  "2.3.0-local",
+    "url":  "https://github.com/tomlimatl1997-art/tomupdate/releases/download/v2.3.0-local/app-arm64-v8a-release.apk",
+    "sha256":  "a7182c4f82ab0e0e76831fafbc2a1acd3d8bf6cc66523b8f75af4b1b9613c1af",
+    "notes":  "Filmes e series reescritos: Trakt + Overflix no Worker + progresso/assistido no D1",
+    "publishedAt":  "2026-11-05T01:57:58Z"
 }
