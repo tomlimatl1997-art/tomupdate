@@ -1,8 +1,8 @@
 {
-    "versionCode":  161,
-    "versionName":  "2.3.1-local",
-    "url":  "https://github.com/tomlimatl1997-art/tomupdate/releases/download/v2.3.1-local/app-arm64-v8a-release.apk",
-    "sha256":  "9fb243ad36cf3e0372e6fa21cdeac3a2b9014930cb1cc9499ffac1c59810206f",
-    "notes":  "Correcao hosters no aparelho (OverflixHoster) + titulo original para busca no Overflix; Tenzing, Hobbit, Homem-Aranha, Dia D, Masterplan agora reproduzem",
-    "publishedAt":  "2026-11-05T02:56:50Z"
+    "versionCode":  162,
+    "versionName":  "2.3.2-local",
+    "url":  "https://github.com/tomlimatl1997-art/tomupdate/releases/download/v2.3.2-local/app-arm64-v8a-release.apk",
+    "sha256":  "cb85a67ce4b6ca834ca0ff40d694ea6f1d67425b2dbe211ba1ccf005c0381b27",
+    "notes":  "Mais titulos por categoria (TMDB discover para generos + 50 itens por pagina); correcao hosters no aparelho; titulo original para busca no Overflix",
+    "publishedAt":  "2026-11-06T01:05:42Z"
 }
