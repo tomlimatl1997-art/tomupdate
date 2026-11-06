@@ -1,8 +1,8 @@
 {
-    "versionCode":  163,
-    "versionName":  "2.3.3-local",
-    "url":  "https://github.com/tomlimatl1997-art/tomupdate/releases/download/v2.3.3-local/app-arm64-v8a-release.apk",
-    "sha256":  "715dada60ab5d8200a6b4e3594d4dd12d67708a2dd14445513e60f632d7e4930",
-    "notes":  "Correcao atualizacao: cache-busting na consulta do latest.json (raw.githubusercontent.com ignorava Cache-Control)",
-    "publishedAt":  "2026-11-06T01:09:44Z"
+    "versionCode":  164,
+    "versionName":  "2.3.4-local",
+    "url":  "https://github.com/tomlimatl1997-art/tomupdate/releases/download/v2.3.4-local/app-arm64-v8a-release.apk",
+    "sha256":  "2e565c6afb6694a9ba5072b157bc01ecf08dd2b97129301b93d880b302ea4331",
+    "notes":  "Correcao atualizacao: consulta via API do GitHub (sem cache de CDN de 5 min do raw.githubusercontent.com)",
+    "publishedAt":  "2026-11-06T01:11:03Z"
 }
