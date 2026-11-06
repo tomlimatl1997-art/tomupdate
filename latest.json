@@ -1,8 +1,8 @@
 {
-    "versionCode":  164,
-    "versionName":  "2.3.4-local",
-    "url":  "https://github.com/tomlimatl1997-art/tomupdate/releases/download/v2.3.4-local/app-arm64-v8a-release.apk",
-    "sha256":  "2e565c6afb6694a9ba5072b157bc01ecf08dd2b97129301b93d880b302ea4331",
-    "notes":  "Correcao atualizacao: consulta via API do GitHub (sem cache de CDN de 5 min do raw.githubusercontent.com)",
-    "publishedAt":  "2026-11-06T01:11:03Z"
+    "versionCode":  165,
+    "versionName":  "2.3.5-local",
+    "url":  "https://github.com/tomlimatl1997-art/tomupdate/releases/download/v2.3.5-local/app-arm64-v8a-release.apk",
+    "sha256":  "c475598774858e9fee0f412ccd531ce599b539425f2c0fef477b913dadea4e78",
+    "notes":  "Correcao titulo: tagline do Trakt nao e mais usado como titulo (ex.: Deadpool exibia \u0027Chegando Juntos\u0027); envio do titulo original ao Worker",
+    "publishedAt":  "2026-11-06T01:23:43Z"
 }
