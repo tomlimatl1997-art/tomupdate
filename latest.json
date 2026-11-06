@@ -1,8 +1,8 @@
 {
-    "versionCode":  162,
-    "versionName":  "2.3.2-local",
-    "url":  "https://github.com/tomlimatl1997-art/tomupdate/releases/download/v2.3.2-local/app-arm64-v8a-release.apk",
-    "sha256":  "cb85a67ce4b6ca834ca0ff40d694ea6f1d67425b2dbe211ba1ccf005c0381b27",
-    "notes":  "Mais titulos por categoria (TMDB discover para generos + 50 itens por pagina); correcao hosters no aparelho; titulo original para busca no Overflix",
-    "publishedAt":  "2026-11-06T01:05:42Z"
+    "versionCode":  163,
+    "versionName":  "2.3.3-local",
+    "url":  "https://github.com/tomlimatl1997-art/tomupdate/releases/download/v2.3.3-local/app-arm64-v8a-release.apk",
+    "sha256":  "715dada60ab5d8200a6b4e3594d4dd12d67708a2dd14445513e60f632d7e4930",
+    "notes":  "Correcao atualizacao: cache-busting na consulta do latest.json (raw.githubusercontent.com ignorava Cache-Control)",
+    "publishedAt":  "2026-11-06T01:09:44Z"
 }
